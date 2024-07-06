@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+starrocks/allin1:3.3.0 registry.cn-hangzhou.aliyuncs.com/zhbnamespace/starrocks/allin1:3.3.0
